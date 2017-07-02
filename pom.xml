@@ -24,7 +24,7 @@
 	</dependencies>
 
     <scm>
-    	<connection>scm:git:git@https://github.com/Badmamane/test.git</connection>
+    	<connection>scm:git:https://github.com/Badmamane/test.git</connection>
     </scm>
 
 	<distributionManagement>
