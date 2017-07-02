@@ -23,7 +23,7 @@
 	</dependencies>
 
     <scm>
-    	<connection>scm:git:git@https://github.com/Badmamane/test.git</connection>
+    	<connection>scm:git:https://github.com/Badmamane/test.git</connection>
       <tag>actTest-2.1</tag>
   </scm>
 
