@@ -3,7 +3,7 @@
 
 	<groupId>act</groupId>
 	<artifactId>actTest</artifactId>
-	<version>1.2</version>
+	<version>version_1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>actExample</name>
@@ -24,7 +24,7 @@
 
     <scm>
     	<connection>scm:git:https://github.com/Badmamane/test.git</connection>
-      <tag>version_1.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 	<distributionManagement>
